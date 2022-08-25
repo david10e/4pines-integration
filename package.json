@@ -1,0 +1,15 @@
+{
+  "name": "4pines-integration",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/david10e/4pines-integration.git",
+  "author": "David Jozwik <djozwik@10east.co>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "aws-amplify": "^4.3.33",
+    "dotenv": "^16.0.1"
+  }
+}
