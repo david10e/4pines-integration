@@ -15,3 +15,5 @@ It uses two key libraries:
 1. Run `yarn install`
 2. Copy `.env.example` to `.env` and fill in the values
 3. Run `yarn start`
+
+The file path provided to the `uploadDocument` function in index.js will upload a file from your machine to S3 and the profile ID will be attached to that file as metadata.
